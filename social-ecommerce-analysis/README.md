@@ -3,7 +3,8 @@
 对一份 **100,000 条** 社交电商用户购买行为记录（小红书/抖音类平台真实场景）进行完整的
 **数据探索 → 预处理 → 特征工程 → 建模评估 → 运营建议** 分析。
 
-> 数据集来源：`C:\Users\18887\Downloads\social_ecommerce_data.csv`（**只读，本项目不做任何修改**）。
+> 数据集来源：https://tianchi.aliyun.com/dataset/215680?accounttraceid=c5d1404137424fb1a28d5e71ad541c7dhdnb
+> social_ecommerce_data.csv`（**只读，本项目不做任何修改**）。
 
 ---
 
