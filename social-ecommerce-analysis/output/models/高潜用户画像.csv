@@ -1,0 +1,17 @@
+,高潜Top20%,其余
+age,27.004,27.138
+gender,0.354,0.361
+user_level,4.267,3.861
+purchase_freq,11.658,11.549
+total_spend,2788.154,2726.129
+price,108.761,112.459
+discount_rate,0.134,0.11
+add2cart,0.81,0.095
+coupon_used,0.303,0.07
+pv_count,8.613,9.556
+last_click_gap,9.884,12.735
+interaction_rate,25.177,13.306
+purchase_intent,6.69,1.849
+freshness_score,0.766,0.709
+social_influence,128.37,67.68
+like_num,54.324,33.66
