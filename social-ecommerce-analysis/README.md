@@ -22,7 +22,7 @@ social-ecommerce-analysis/
 │   ├── 06_eval_plots.py             # 模型评估可视化（ROC/PR/重要性/混淆矩阵）
 │   └── 07_generate_report.py        # 自动生成 Markdown 分析报告
 └── output/
-    ├── 数据分析报告.md              # ★ 最终交付报告（含全部结论与建议）
+    ├── 数据分析报告.md               # 最终交付报告（含全部结论与建议）
     ├── overview/                    # 数据概览表（分布、统计、相关性）
     ├── figures/                     # 18 张分析图表
     ├── processed/                   # 预处理与特征矩阵（parquet）
