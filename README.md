@@ -1,11 +1,9 @@
 # opendata_analyse
 
-- 项目主要使用的编程语言是 python、sql、hql
-- .ipynb 可以用 jupyter notebook 打开，如何安装, 可以参考 [jupyter notebook](http://blog.turboway.top/article/jupyter/)
->jupyter notebook 是一种网页交互形式的 python 编辑器，直接通过 pip 安装，也支持 markdown，很适合用来做数据分析可视化以及写文章、写示例代码等。
+- 项目主要使用的编程语言是 python
 
 ## list
 
 | 主题 | 处理方式 | 技术栈  |  数据集下载 |
 | ------------ | ------------ | ------------ | ------------ |
-| [社交电商分析]()
+| [社交电商分析](https://github.com/lim71828/opendata_analyse/blob/main/social-ecommerce-analysis/output/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)
