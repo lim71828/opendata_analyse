@@ -1,6 +1,9 @@
 # opendata_analyse
 
-- 项目主要使用的编程语言是 python
+- 项目主要使用的编程语言是 python，sql
+- 使用工具pycharm，jupyter，Navicat Premium Lite 17
+- 辅助工具-cherrystudio，ChatGPT-codex
+- 大模型-deepseekv4flash
 
 ## list
 一.[社交电商分析](https://github.com/lim71828/opendata_analyse/blob/main/social-ecommerce-analysis/output/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)  
