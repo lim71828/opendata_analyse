@@ -1,0 +1,11 @@
+{
+  "rows": 100000,
+  "cols": 32,
+  "duplicates": 0,
+  "missing_total": 0,
+  "pos_rate": 0.4498,
+  "age_mean": 27.1,
+  "female_ratio": 0.6368,
+  "num_cols": 29,
+  "cat_cols": 3
+}
